@@ -25,8 +25,13 @@
       <a href="https://www.linkedin.com/in/r-k-choudhary-109906262/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-    
-      
+    <p align="center">
+     
+      <br>
+    </p>
+      <a href="https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=khatakarramdev@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
   </samp>
 </div>
  <br><br>
