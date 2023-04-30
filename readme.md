@@ -29,15 +29,16 @@
      
       <br>
     </p>
-      <a href="https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=khatakarramdev@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+      
   </samp>
 </div>
  <br><br>
 
   <p align="center">
   <h1 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...</h1>
+  <a href="https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=khatakarramdev@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
 </p>
  <div> 
 
