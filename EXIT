@@ -1,0 +1,38 @@
+[33mtag v1.0[m
+Tagger: Admin@kimjongun <khatakarramdev@gmail.com>
+Date:   Thu May 4 14:57:27 2023 +0530
+
+	v.1.0 a add.py file is added to our project to perform addition
+
+[33mcommit fe41d284ba6a0b0e6cf222bbbbdce79cafd01995[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.0[m[33m)[m
+Author: Admin@kimjongun <khatakarramdev@gmail.com>
+Date:   Thu May 4 14:49:29 2023 +0530
+
+    added a file add.py to add additioon feature to our project
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..34c1548[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32m#  Git Repository to understand working of git[m
+[32m+[m[32m## This is just a Demo Repository[m
+[32m+[m
+[32m+[m[32m- `README.md` this is documentation file of our project[m[41m [m
+[32m+[m
+[32m+[m
+[32m+[m[32m- `add.py` this is a simple addition program in python version 3[m
+[1mdiff --git a/add.py b/add.py[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a4b41c9[m
+[1m--- /dev/null[m
+[1m+++ b/add.py[m
+[36m@@ -0,0 +1,7 @@[m
+[32m+[m[32m"""add.py simple addition program"""[m
+[32m+[m
+[32m+[m[32mx = int(input("Enter x: "))[m
+[32m+[m
+[32m+[m[32my = int(input("Enter y: "))[m
+[32m+[m
+[32m+[m[32mprint(f"{x} + {y} =  {x+y}.")[m
