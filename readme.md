@@ -22,7 +22,7 @@
       <a href="https://wa.me/+916377367209" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://www.linkedin.com/in/r-k-choudhary-109906262/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/feed/?trk" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
     <p align="center">
