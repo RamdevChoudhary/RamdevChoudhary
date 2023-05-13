@@ -44,7 +44,7 @@
 ```javascript
 const Ramdev Choudhary = {
     pronouns: "He" | "Him",
-    code: ["Python", "htm", "C++", "Java", "php"],
+    code: ["Python", "html", "C"],
     askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
     technologies: {
         PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
