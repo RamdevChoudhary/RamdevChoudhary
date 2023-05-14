@@ -30,6 +30,9 @@
       <a href="https://mail.google.com/mail/u/0/?hl=en&tf=cm&fs=1&to=khatakarramdev@gmail.com" target="blank"><img align="center"
            src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
            alt="azzar" height="30"/></a>
+    <a href="https://twitter.com/Ram_099509" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
      <p align="center">
   </samp>
 </div>
