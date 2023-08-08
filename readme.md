@@ -47,10 +47,10 @@
 ```javascript
 const Ramdev Choudhary = {
     pronouns: "He" | "Him",
-    code: ["Python", "html", "Bootstrap"],
+    code: ["Python"],
     askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
     technologies: {
-        PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
+        PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup", "Object Oriented Programming"],
         frontEnd: ["HTML","CSS","JS",JINJA"],
         backEnd: ["flask", "Django"],
         databases: ["MySql", "sqlite", "Microsoft SQL server"],
