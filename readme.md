@@ -22,7 +22,7 @@
       <a href="https://wa.me/+916377367209" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://www.linkedin.com/feed/?trk" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/ramdevchoudhary099509/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
     <p align="center">
@@ -47,14 +47,14 @@
 ```javascript
 const Ramdev Choudhary = {
     pronouns: "He" | "Him",
-    code: ["Python", "html", "C"],
+    code: ["Python", "html", "Bootstrap"],
     askMeAbout: ["Data", "Analysis", "ML", "Visualization"],
     technologies: {
         PythonPackage: ["Numpy","Pandas","Matplotlib","Seaborn","beautiful soup"],
         frontEnd: ["HTML","CSS","JS",JINJA"],
-        backEnd: ["flask"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["API", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp","JSON"]
+        backEnd: ["flask", "Django"],
+        databases: ["MySql", "sqlite", "Microsoft SQL server"],
+        misc: ["API", "Socket.IO", "selenium", "open-cv", "SuiteApp","JSON"]
     },
     OpenToWork: ["Data Scientist", "Data Analyst", "Data Engineer","Python Developer"],
     funFact: "There are two ways to write error-free programs; only the third one works"
